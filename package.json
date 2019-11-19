@@ -4,19 +4,18 @@
   "description": "",
   "main": "Server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon Server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fabian1123/Proyecto_Alberdi.git"
+    "url": "git+https://github.com/Estefaniac22/CatalogoAlberdi.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fabian1123/Proyecto_Alberdi/issues"
+    "url": "https://github.com/Estefaniac22/CatalogoAlberdi/issues"
   },
-  "homepage": "https://github.com/fabian1123/Proyecto_Alberdi#readme",
+  "homepage": "https://github.com/Estefaniac22/CatalogoAlberdi#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
